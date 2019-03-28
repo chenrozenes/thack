@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379a2c96-5284-497f-a0ba-cdb685b52540" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/config/passport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/controllers/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/controllers/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/controllers/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/controllers/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/themes/default/_default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/themes/default/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/themes/flatly/_flatly.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/themes/flatly/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/themes/modern/_modern.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/css/themes/modern/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/js/lib/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/public/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/test/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/test/models.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/account/forgot.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/account/login.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/account/profile.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/account/reset.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/account/signup.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/aviary.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/chart.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/clockwork.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/facebook.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/foursquare.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/github.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/google-maps.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/instagram.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/lastfm.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/linkedin.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/lob.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/nyt.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/paypal.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/pinterest.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/scraping.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/steam.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/stripe.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/tumblr.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/twilio.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/twitter.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/api/upload.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/contact.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/home.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/layout.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/partials/flash.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/partials/footer.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-server/views/partials/header.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-app/internals/scripts/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-app/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,34 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-server/Dockerfile">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env.example" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-server/.env.example">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="api.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web-server/controllers/api.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-app/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" lean-forward="true" selection-end-line="688" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-server/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -115,6 +43,8 @@
       <find>.env.example</find>
       <find>twilio</find>
       <find>clockwo</find>
+      <find>install</find>
+      <find>-g</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,6 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web-server/controllers/api.js" />
+        <option value="$PROJECT_DIR$/web-app/Procfile" />
+        <option value="$PROJECT_DIR$/web-app/package.json" />
       </list>
     </option>
   </component>
@@ -134,11 +66,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/web-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/web-app/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/web-server/package.json" />
+      <path value="$PROJECT_DIR$/web-app/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -162,25 +94,7 @@
             <path>
               <item name="thack" type="b2602c69:ProjectViewProjectNode" />
               <item name="thack" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thack" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thack" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thack" type="462c0819:PsiDirectoryNode" />
-              <item name="web-server" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553804519607</updated>
-      <workItem from="1553804522723" duration="827000" />
+      <workItem from="1553804522723" duration="2612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="827000" />
+    <option name="totallyTimeSpent" value="2612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
@@ -272,8 +186,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web-server/controllers/api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="true" selection-end-line="688" />
+        <state relative-caret-position="165">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
