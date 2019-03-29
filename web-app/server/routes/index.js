@@ -7,4 +7,4 @@ router.get("/path/to/api", function (req, res, next) {
 });
 
 
-export default router;
+module.exports = router;
