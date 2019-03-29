@@ -13,7 +13,7 @@ const ngrok =
     : false;
 const { resolve } = require('path');
 const app = express();
-
+const routes = require('./routes');
 
 // If you need a backend, e.g. an API, add your custom backend-specific middleware here
 // app.use('/api', myApi);
@@ -35,6 +35,8 @@ app.get('*.js', (req, res, next) => {
   res.set('Content-Encoding', 'gzip');
   next();
 });
+
+app.route(routes);
 
 // Start your app.
 app.listen(port, host, async err => {
